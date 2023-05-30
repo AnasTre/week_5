@@ -1,0 +1,46 @@
+h2 {
+    color: blue;
+}
+
+h1,
+h2 {
+    color: blueviolet;
+}
+
+img {
+    width: 50vw;
+}
+
+.menu {
+    color: black;
+    padding: 4px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.menu:hover {
+    text-decoration: underline;
+}
+
+#wiki {
+    color: chartreuse;
+}
+
+#mainmenu .menu {
+    color: darkgreen;
+}
+
+#logo {
+    width: 100px;
+    right: 0;
+    top: 0;
+    /*border: 1px solid blue;
+    opacity: 0.5;
+    box-shadow: 0 0 100px black;
+    border-radius: 39px;*/
+}
+
+#companymain {
+    padding: 10px;
+    margin: 20px;
+}
